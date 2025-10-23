@@ -1,0 +1,6 @@
+package org.example.proyectofinalmusica.model;
+
+public class Profesor extends Persona {
+
+    private 
+}

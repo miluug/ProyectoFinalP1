@@ -1,0 +1,4 @@
+package org.example.proyectofinalmusica.model;
+
+public class Estudiante {
+}
